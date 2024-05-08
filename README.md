@@ -1,2 +1,1 @@
-# Python_Pytorch
-Python a brief introduction to Pytorch
+# Python a brief introduction to Pytorch
